@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>WIFOR GERAL v2</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>map-marker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>map-marker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>map-marker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>map-marker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>map-marker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>map-marker.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+    <name>Expansão_2023</name>
+  <Placemark>
+	<name>Areninha Sitio São João</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5203972,-3.8490771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Areninha Lagoa da Zeza</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5031607,-3.7819439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Otávio Bonfim</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5435678,-3.7315036</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>PROJETO_WIFOR___PRAIA_DE_IRACEMA</name>
+  <Placemark>
+	<name>Estátua da Praia Iracema</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.509433,-3.720843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sobre o mar</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.515902,-3.718943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pirata Bar</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5169798,-3.7186503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Casa da Cultura Digital de Fortaleza</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.514195,-3.719211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sonata Parking</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.511668,-3.720544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brisa da Praia Hotel</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.510976,-3.720575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Espaço Belchior</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.513358,-3.719338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sindicato dos Engenheiros no Estado do Ceará</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.514896,-3.719221</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Legado</name>
+  <Placemark>
+	<name>Mercado Central de Fortaleza</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52381,-3.723155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mercado São Sebastião</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.538988,-3.730366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mercado Cultural dos Pinhões</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.515289,-3.72681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Lagoa</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.570206,-3.771442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Papicu</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.484761,-3.738568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Parangaba</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.563162,-3.776384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Siqueira</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.587116,-3.789584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Conjunto Ceará</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.607609,-3.77285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Messejana</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5018052,-3.831315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Antônio Bezerra</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.584456,-3.7375915</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rede CUCA Barra</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.586992,-3.700573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cuca Jangurussu</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.520695,-3.830888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cuca Mondubim</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.580391,-3.806424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gabinete do Prefeito</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.523568,-3.725461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Pequenos Negócios</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.534208,-3.726011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Areninha Campo do América</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.502707,-3.730647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Areninha do Pirambu</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.545597,-3.714512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Areninha Thauzer Parente</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.592628,-3.724528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IMPARH</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.555843,-3.760207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça do Sagrado Coração de Jesus</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52625,-3.732511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque da Criança</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.525808,-3.731411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Passeio público</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52643,-3.722572</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Murilo Borges</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.527759,-3.730884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça do Ferreira</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52758,-3.727658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COPIFOR (PPPFor)</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.494165,-3.73417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - NSHOPPING</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.566051,-3.735943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - EMOTA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.562164,-3.735138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - JLOURENCO</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.559495,-3.734661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - DLINO</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.556753,-3.734021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT  - CSALDANHA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.554826,-3.733709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - ICEGOS</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.552795,-3.733192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - PFROTA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.549097,-3.732526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - JSOMBRA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.547039,-3.732015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - OBONFIM</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.543717,-3.731395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - SSEBASTIAO</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.538348,-3.731076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - OBILAC</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.564996,-3.735816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - OPOVO</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.524777,-3.739753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - MSERRA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.525748,-3.743243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - PFERREIRA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.524165,-3.748298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - FATIMA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.523506,-3.753302</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>ATIVADOS</name>
+  <Placemark>
+	<name>ÁREA VERDE BOSQUE DO BEM -Bosque do Bem</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.562458,-3.733652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Waldir Campos - Praça do Polar</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.59258,-3.710175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Canteiro Central Calçadão Crasa</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.545539,-3.727478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Igreja São José</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.451926,-3.821353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Central Cidade 2000</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.471457,-3.749621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da Igreja N. SRA. da Conceição</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.494347,-3.831459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça do Esporte Copacabana</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.489827,-3.838198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da Republica - Praça Marupiara</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.567897,-3.761309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da Igreja da Glória</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.500871,-3.796954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Sitio São João</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.517723,-3.85026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça São José</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.62661,-3.814237</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Do Planalto Vitória</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.609762,-3.822705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Joaquim Nogueira</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.59452,-3.738413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Luíza Távora</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.509897,-3.731914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da Bandeira</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.531917,-3.73276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Francisco Rodrigues Sancho</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.469246,-3.747838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Ipiranga</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.59514,-3.744268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da Paz Dom Hélder Câmera</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.449861,-3.746842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Martins Dourado</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.47624,-3.745693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da LBA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.51918,-3.747712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Ari de Sá</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.552803,-3.739441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Jose Carlos Gaspar</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.58875,-3.773922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça do Jardim Fluminense</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.602406,-3.81677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRAÇA JOÃO PAULO II</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.518297,-3.824311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRAÇA CAMPO ESTRELA JANGURUSSU</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.516448,-3.830702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça dos Voluntarios</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.526329,-3.729433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morro Santa Terezinha</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.478529,-3.721901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Santa Cecília</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.609551,-3.790608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Farias Brito</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.532151,-3.819326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRAÇA PATRÃO MOR AGUIAR</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5608683,-3.7163322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Coronel João Pontes - Praça João Pontes (Monte Castelo)</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.550104,-3.72841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Calçadão Av. Beira Mar</name>
+	<description>AV. BEIRA MAR (ENTRE AV. RUI BARBOSA E MERCADO DOS PEIXES)</description>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.500291,-3.724714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ÁREA PRAIA DE IRACEMA</name>
+	<description>AV. BEIRA MAR, DA PONTE METÁLICA ATÉ ATERRINHO</description>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.51578,-3.718645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jardim Japonês</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.490909,-3.725419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRAÇA CONJUNTO DOS BANCÁRIOS</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5975091,-3.718473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Pio X</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5449267,-3.804745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Prisco Bezerra</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5694827,-3.7387332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça 1° De Maio</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.550077,-3.797016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Portugal</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.496931,-3.733397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça do Ferreira</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5273597,-3.7272083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da Imprensa Chanceler Edson Queiroz</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.502103,-3.745972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Dr Carlos Alberto Studart Gomes - Praça das Flores</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.498728,-3.739274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça João XXIII</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.579237,-3.77375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Mauá</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.567963,-3.755954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Nossa Senhora de Fátima</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52602,-3.751892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da Gentilândia</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.537206,-3.743821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça UV3</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.614934,-3.776241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POLO DE LAZER DO CONJUNTO ESPERANCA (E ARENINHA) - Areninha Conjunto Esperança</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.588362,-3.81468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Deputado Paulo Benevides</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.498625,-3.835588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça do Riacho Doce</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.58194,-3.713264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POLO DE LAZER LAGO JACAREY</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.489508,-3.801141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRAÇA DO BEIRA RIO</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.600164,-3.717608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da Juventude (Granja Portugal)</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.60048,-3.777643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Padre Cícero</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5598522,-3.8281786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bairro Empreendedor Bom Jardim</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.60052,-3.790556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça do Céu</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.472446,-3.7284747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça da Juventude (Genésio de Queiroz ; Edson Queiroz)</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.471686,-3.773658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça dos Leões</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.526229,-3.726906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Dom Lustosa</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.583864,-3.758527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Praça Jardim América (Frei Galvão)</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.545754,-3.750849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PRAÇA LUIZ GONZAGA (POLO DE LAZER) - Polo de Lazer</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.606108,-3.769044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LARGO TRAVESSA CRATO - Travessa Crato</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52582,-3.724893</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>Legado___Reativar</name>
+  <Placemark>
+	<name>Passeio pÃºblico</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52643,-3.72257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Areninha do Pirambu</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5456,-3.71451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rede CUCA Barra</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.58699,-3.70057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Centro de Pequenos NegÃ³cios</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.53421,-3.72601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gabinete do Prefeito</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52357,-3.72546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Areninha Thauzer Parente</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.59263,-3.72453</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mercado Central de Fortaleza</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52381,-3.72316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Areninha Campo do AmÃ©rica</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.50271,-3.73065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mercado SÃ£o SebastiÃ£o</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.53899,-3.73037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PraÃ§a do Ferreira</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52758,-3.72766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mercado Cultural dos PinhÃµes</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.51529,-3.72681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Parque da CrianÃ§a</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52581,-3.73141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - OBONFIM</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.54372,-3.7314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PraÃ§a Murilo Borges</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52812,-3.73124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - SSEBASTIAO</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.53835,-3.73108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - ICEGOS</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.55279,-3.73319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - PFROTA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.5491,-3.73253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>PraÃ§a do Sagrado CoraÃ§Ã£o de Jesus</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52625,-3.73251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - JSOMBRA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.54704,-3.73201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - JLOURENCO</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.55949,-3.73466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>COPIFOR (PPPFor)</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.49416,-3.73417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - DLINO</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.55675,-3.73402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRTÂ  - CSALDANHA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.55483,-3.73371</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal AntÃ´nio Bezerra</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.58446,-3.73759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - NSHOPPING</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.56605,-3.73594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - OBILAC</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.565,-3.73582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - EMOTA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.56216,-3.73514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - PFERREIRA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52416,-3.7483</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - MSERRA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52575,-3.74324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - OPOVO</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52478,-3.73975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Papicu</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.48476,-3.73857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Conjunto CearÃ¡</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.60761,-3.77285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Lagoa</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.57021,-3.77144</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>IMPARH</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.55584,-3.76021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRT - FATIMA</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52351,-3.7533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cuca Jangurussu</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.52069,-3.83089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cuca Mondubim</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.58039,-3.80642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Siqueira</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.58712,-3.78958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Parangaba</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.56316,-3.77638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal Messejana</name>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.50181,-3.83131</coordinates></Point>
+  </Placemark>
+</Folder>
+<Folder><name>PROJETO_WIFOR___BEIRA_MAR</name>
+  <Placemark>
+	<name>POSTE 42</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UND   
+  CAMERAS FIXAS  02 UND   
+  CAMERA PTZ  NENHUMA   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 553680
+LONGITUDE: 9588951
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">553680</SimpleData>
+		<SimpleData name="LONGITUDE">9588951</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.517,-3.718641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 41</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UND   
+  CAMERAS FIXAS  02 UND   
+  CAMERA PTZ  NENHUMA   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 553792
+LONGITUDE: 9588932
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">553792</SimpleData>
+		<SimpleData name="LONGITUDE">9588932</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.515947,-3.718812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 40</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UND   
+  CAMERAS FIXAS  02 UND   
+  CAMERA PTZ  NENHUMA   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 553922
+LONGITUDE: 9588910
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">553922</SimpleData>
+		<SimpleData name="LONGITUDE">9588910</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.514794,-3.71902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 39</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554118
+LONGITUDE: 9588837
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554118</SimpleData>
+		<SimpleData name="LONGITUDE">9588837</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.512641,-3.719733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 38</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554239
+LONGITUDE: 9588814
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554239</SimpleData>
+		<SimpleData name="LONGITUDE">9588814</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.511551,-3.719941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 37</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554371
+LONGITUDE: 9588755
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554371</SimpleData>
+		<SimpleData name="LONGITUDE">9588755</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.510362,-3.720474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 35</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554487
+LONGITUDE: 9588636
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554487</SimpleData>
+		<SimpleData name="LONGITUDE">9588636</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.509317,-3.72155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 36</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554505
+LONGITUDE: 9588701
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554505</SimpleData>
+		<SimpleData name="LONGITUDE">9588701</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.509155,-3.720962</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 34</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554571
+LONGITUDE: 9588589
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554571</SimpleData>
+		<SimpleData name="LONGITUDE">9588589</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.508561,-3.721974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 33</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554644
+LONGITUDE: 9588547
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554644</SimpleData>
+		<SimpleData name="LONGITUDE">9588547</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.507903,-3.722354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 32</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554736
+LONGITUDE: 9588508
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554736</SimpleData>
+		<SimpleData name="LONGITUDE">9588508</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.507074,-3.722706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 31</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554824
+LONGITUDE: 9588465
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554824</SimpleData>
+		<SimpleData name="LONGITUDE">9588465</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.506282,-3.723095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 30</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554917.347
+LONGITUDE: 9588420.8517
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554917.347</SimpleData>
+		<SimpleData name="LONGITUDE">9588420.8517</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.505444,-3.723502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 29</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 554951.6175
+LONGITUDE: 9588463.2587
+
+</SimpleData>
+		<SimpleData name="LATITUDE">554951.6175</SimpleData>
+		<SimpleData name="LONGITUDE">9588463.2587</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.505138,-3.723112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 28</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555050.1862
+LONGITUDE: 9588423.4613
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555050.1862</SimpleData>
+		<SimpleData name="LONGITUDE">9588423.4613</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.504246,-3.723474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 27</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555162.2193
+LONGITUDE: 9588372.8379
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555162.2193</SimpleData>
+		<SimpleData name="LONGITUDE">9588372.8379</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.503237,-3.723935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 26</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555283.0805
+LONGITUDE: 9588323.1715
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555283.0805</SimpleData>
+		<SimpleData name="LONGITUDE">9588323.1715</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.502147,-3.724377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 25</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555405.8017
+LONGITUDE: 9588291.8556
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555405.8017</SimpleData>
+		<SimpleData name="LONGITUDE">9588291.8556</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.501049,-3.724666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 24</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555503.2169
+LONGITUDE: 9588271.9015
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555503.2169</SimpleData>
+		<SimpleData name="LONGITUDE">9588271.9015</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.500166,-3.724846</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 23</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADES    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555603.4175
+LONGITUDE: 9588281.6877
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555603.4175</SimpleData>
+		<SimpleData name="LONGITUDE">9588281.6877</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.499266,-3.724755</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 22</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADES    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555731.4716
+LONGITUDE: 9588223.5746
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555731.4716</SimpleData>
+		<SimpleData name="LONGITUDE">9588223.5746</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.498113,-3.72528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 21</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADES    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555825.1444
+LONGITUDE: 9588178.2317
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555825.1444</SimpleData>
+		<SimpleData name="LONGITUDE">9588178.2317</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.497266,-3.725686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 20</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADES    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555928.7301
+LONGITUDE: 9588255.5757
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555928.7301</SimpleData>
+		<SimpleData name="LONGITUDE">9588255.5757</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.496339,-3.724989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 18</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADES    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555928.7301
+LONGITUDE: 9588255.5757
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555928.7301</SimpleData>
+		<SimpleData name="LONGITUDE">9588255.5757</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.495598,-3.724944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 15</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADES    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555928.7301
+LONGITUDE: 9588255.5757
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555928.7301</SimpleData>
+		<SimpleData name="LONGITUDE">9588255.5757</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.494241,-3.725316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 19</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADES    
+  RÁDIO UNIFI   
+        
+LATITUDE: 555947.9869
+LONGITUDE: 9588155.1037
+
+</SimpleData>
+		<SimpleData name="LATITUDE">555947.9869</SimpleData>
+		<SimpleData name="LONGITUDE">9588155.1037</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.496167,-3.725894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 16</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADES    
+  RÁDIO UNIFI   
+        
+LATITUDE: 556065.9173
+LONGITUDE: 9588129.6275
+
+</SimpleData>
+		<SimpleData name="LATITUDE">556065.9173</SimpleData>
+		<SimpleData name="LONGITUDE">9588129.6275</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.495104,-3.726128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 17</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADES    
+  RÁDIO UNIFI   
+        
+LATITUDE: 556081.9102
+LONGITUDE: 9588256.1961
+
+</SimpleData>
+		<SimpleData name="LATITUDE">556081.9102</SimpleData>
+		<SimpleData name="LONGITUDE">9588256.1961</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.494961,-3.724979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 14</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  02 UNIDADE   
+  CAMERAS FIXAS  02 UNIDADES   
+  CAMERA PTZ  01 UNIDADE   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 556246.853
+LONGITUDE: 9588155.6933
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">556246.853</SimpleData>
+		<SimpleData name="LONGITUDE">9588155.6933</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.493637,-3.725874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 13</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  03 UNIDADES   
+  CAMERA PTZ  01 UNIDADE   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 556358.4771
+LONGITUDE: 9588173.3086
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">556358.4771</SimpleData>
+		<SimpleData name="LONGITUDE">9588173.3086</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.49243,-3.725711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 12</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  03 UNIDADES   
+  CAMERA PTZ  NENHUMA   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 556462.9845
+LONGITUDE: 9588186.6003
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">556462.9845</SimpleData>
+		<SimpleData name="LONGITUDE">9588186.6003</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.491494,-3.725547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 11</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  03 UNIDADES   
+  CAMERA PTZ  01 UNIDADE   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 556559.5321
+LONGITUDE: 9588251.5865
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">556559.5321</SimpleData>
+		<SimpleData name="LONGITUDE">9588251.5865</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.490629,-3.724977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 10</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  03 UNIDADES   
+  CAMERA PTZ  01 UNIDADE   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 556666.3443
+LONGITUDE: 9588362.3297
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">556666.3443</SimpleData>
+		<SimpleData name="LONGITUDE">9588362.3297</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.4896917,-3.7240157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 09</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  02 UNIDADES   
+  CAMERA PTZ  NENHUMA   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 556788.9056
+LONGITUDE: 9588405.0641
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">556788.9056</SimpleData>
+		<SimpleData name="LONGITUDE">9588405.0641</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.488505,-3.723555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 08</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  03 UNIDADES   
+  CAMERA PTZ  01 UNIDADE   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 556941.7023
+LONGITUDE: 9588436.6423
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">556941.7023</SimpleData>
+		<SimpleData name="LONGITUDE">9588436.6423</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.487235,-3.723274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 07</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  02 UNIDADES   
+  CAMERA PTZ  NENHUMA   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 557056.1042
+LONGITUDE: 9588438.9553
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">557056.1042</SimpleData>
+		<SimpleData name="LONGITUDE">9588438.9553</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.486002,-3.723273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 06</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  02 UNIDADES   
+  CAMERA PTZ  NENHUMA   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 557187.4615
+LONGITUDE: 9588444.8632
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">557187.4615</SimpleData>
+		<SimpleData name="LONGITUDE">9588444.8632</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.484876,-3.723164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 05</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  02 UNIDADES   
+  CAMERA PTZ  01 UNIDADE   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 557274.6216
+LONGITUDE: 9588473.7773
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">557274.6216</SimpleData>
+		<SimpleData name="LONGITUDE">9588473.7773</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.484156,-3.723118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 04</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  02 UNIDADES   
+  CAMERA PTZ  NENHUMA   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 557423.7121
+LONGITUDE: 9588480.6698
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">557423.7121</SimpleData>
+		<SimpleData name="LONGITUDE">9588480.6698</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.482877,-3.722946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 03</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  03 UNIDADES   
+  CAMERA PTZ  01 UNIDADE   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 557562.0953
+LONGITUDE: 9588520.417
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">557562.0953</SimpleData>
+		<SimpleData name="LONGITUDE">9588520.417</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.481679,-3.722583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 02</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  02 UNIDADES   
+  CAMERA PTZ  NENHUM   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 557669.5997
+LONGITUDE: 9588557.8872
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">557669.5997</SimpleData>
+		<SimpleData name="LONGITUDE">9588557.8872</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.480563,-3.722203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>POSTE 01</name>
+	<ExtendedData><SchemaData schemaUrl="#PROJETO_WIFOR___BEIRA_MAR">
+		<SimpleData name="descri____o">
+
+descrição:         
+      
+  SEGOV
+ FORTALEZA - CE    
+  RÁDIOS  01 UNIDADE   
+  CAMERAS FIXAS  02 UNIDADES   
+  CAMERA PTZ  01 UNIDADE   
+  RÁDIO UNIFI   
+     
+  CÂMERA FIXA   
+     
+  CÂMERA PTZ   
+       
+LATITUDE: 557758.9227
+LONGITUDE: 9588591.6931
+
+
+
+
+
+</SimpleData>
+		<SimpleData name="LATITUDE">557758.9227</SimpleData>
+		<SimpleData name="LONGITUDE">9588591.6931</SimpleData>
+		<SimpleData name="gx_media_links">https://lh3.googleusercontent.com/umsh/AKnoyZ236bcia-cc82vedLQXO26er6_v82AsRHy6_3cGX0f2aKH9wSergA3VaoANs2GUneXj4Qk12l1xtBbnmQt4URUIZh907M_bRrU9xE_EJX5_X0_9nTsBHfsOGIzf9CnfG07gbU69I2EJW3fHRtqLjpNcjlBUZaRCFI2u0esHmdlZ9th8J_t5nx3hQCdT3-T0IrYpRugqYuhDi5vYpERIhZbplXy7xryLzNNIKmnhx9UzDkxaAXZBQpTx-x58FmMR5rmyEoHzAq_Ipdyk_WItW0Z4OcU4s7NXl_EVirK-ioZCEszUZExRDXFWOu913MNUWLyxovI6MEaJoze1gEwCDDSAlGMsSHtpWyECYHZCfdjXlor4dvyQtZQdgLZhCPoZziRDUJqbHGpRQrNXh8N4QTgtW3mXrdv_z87f8KFJQONuOFHZb4oESqvHfVpmZf6bnHGKoZfM8ttMpB4WeE9fnSByR8ZQXe_uXM4cUImKjOurifjqjQoBcSXwBs01_dON8f_HJO87 https://lh3.googleusercontent.com/umsh/AKnoyZ2rZecWwYk3LnIkNJbHRfm5jvs0YupJldyFsXVbcukQRBvM_pfFq8G0Gi1BUfnstHJDWCMvR0Y7Ha7-CNIeF5alqiop893aKk086LM6b6LNVU0IR37vF7lSu2jE1SodO0pnpDFPNJC1bSKZFxlj51eBIndZYADew_I1o5Gg0EyvWs-B2HjobWafUVmcQ26TOpxUOTIfpLCyT0cbbMnithZKooDekHnJvy0MYeifO17xOm9qRfMR_jdHkO84v_Jenbk5ozXbO-NWotvbpfw3DKOOL-Txzl19H15-9RFycVrhWutZcA0xnki8EYziQgnB0GtdRbmA7WGCSrrd8BNXxz9DanjLDD14_nuG5UckhdzvE5wa0lakNQ4a4_Xahr9o8kj83p6umSGI3FJeZmffpmjgIwdWULABodAK7Kba3LLqz31-hcjqcTbNDzFfw82D7rncqKO0yaYZ-6354rEYXovYe7Bzu84qsfO5QpNCVfRdM4685z2vHtEFHmGKBwJ2r84qlrsw09CBcDx4mWh7J2r1uAe2vpThHny-Cg7HCobkQPqLgbOGl2XMbYaOaERr https://lh3.googleusercontent.com/umsh/AKnoyZ1NhdkB8BykyiFX0IFXbwMskZpcJ1pVTJzW2Wqm9-1ESTx-Ihcb-JJ8agOVc1u7ubIcEHNtOibxH3EBo_7V223ymyzfY8tNpd_KzvDqbkYvEiNlS1tvLCIYUheObwtpg3vRMosekyG7prQ6faMPQCNl9Fuo8Ej_TvpzDtkXwhf3zh2jdMnWRp77TrSH8T04rvVnbRDi5H48sVjYjrF6UO1C-j-e2Rsm39xpkuSlt4ZpWCZsb53rg0lFKQyDbsCPFFuCQ-N6d7dGHZbp66bE9-2IJeS_UPqsjc79anOTLyoH2dzOt3649H3M5qCRQdKv2_cA4y3gFXstdKoeID4lxcXdtahFLIEJ8hMTyl95f3RgUwtgOjFXFU4-tmCR7O2mViIFSx2PrndXQJDVBqWZhDtrmHpD679uLuZA1Xbm0qqd0BZRh7APf__EXTiHCC93bU2Um2WfeF4PSO5-CYyZARu6rod7BXEpAjUd0_WmNTq1EUoG9wFnQ6b8 https://lh3.googleusercontent.com/umsh/AKnoyZ2T-Wx1Vu3JzCbuhLSJlNSMes1kPAeio7MHtSLXF9DcxJOU6SWp7skOfMEEwmhWsV-qno1clqYRUrEhmiXgzdsOXT7rUmn3G-HpcA4hM4cJk8fQwD-UFbI2m0PPFYbDhVs-rLM8G2-vAZoW-rgk5YJY7AFk0ION2o1tCQTsRyP6z0ZGG6849Za4BrF7fxCmwEF-ErJBhunb2flscSh__yB7vL22LHX3NfUyHZIWqRzyaPhM_LSdTWou0se-HTWxsiqP-BdT7PdYV_6lQK_FmREonU7caWYTqKuALAOQZQnDhktda9MNeTGTBzpg4oSFT0O4msbsvpJ689wKzz7taP2P8SIZGP5Bp4BqWB7N_Wg3NPtrX-8jWHeQEVUvjWvcAcMsRbzt8icP4-1GKtivur92T7zM9jQErJjkCJDgrHJaIFnCFOhDUu0u-jBRDnPJ2sULqHoUx1Jk5pNNzYT5fAvnWzEGa19kcbU61opi8cKxoNcdjvnXwsPPf9M0bWLp_2jyfWxD3B8CN-19Fg5Fl0GBFvjlANlhHrudOQJg9-Jcvwx3F-734ZCcoOiOWBB_4QTS3fohw3UJkrIRtHQSuFJSX_CN2myCFH2kwtxhgmAouwQzesEcljWJh-jEpdR0HtJBC9W3ixcosVAY8lDvQ0NK4qmYJBi6EuPPKkGTBM4ctHvj6-GaAcuVEAYJ7LmVtfh7DPgTgrBX9EIWCLl-QAMif4h7mnJOwbTp-q3EmxSbHA</SimpleData>
+	</SchemaData></ExtendedData>
+  <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+  <Point>
+<coordinates>-38.47933,-3.721804</coordinates></Point>
+  </Placemark>
+</Folder>
+<Schema name="PROJETO_WIFOR___BEIRA_MAR" id="PROJETO_WIFOR___BEIRA_MAR">
+	<SimpleField name="descri____o" type="string"></SimpleField>
+	<SimpleField name="LATITUDE" type="float"></SimpleField>
+	<SimpleField name="LONGITUDE" type="float"></SimpleField>
+	<SimpleField name="gx_media_links" type="string"></SimpleField>
+</Schema>
+</Document></kml>

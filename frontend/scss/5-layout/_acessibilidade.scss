@@ -1,0 +1,346 @@
+/* ..................................................................................................... */
+/* ALTO CONTRASTE */
+.contrast,
+.contrast nav,
+.contrast div,
+.contrast li,
+.contrast ol,
+.contrast header,
+.contrast footer,
+.contrast section,
+.contrast main,
+.contrast aside,
+.contrast article {
+    background: black !important;
+    color: white !important;
+}
+
+.contrast {
+    .s-content{
+        border-top: 1px solid $white !important;
+        border-bottom: 1px solid $white !important;
+        .process-box{
+            .process-step{
+                background: black !important;
+                color: 1px solid white !important;
+                color:  white !important;
+            }
+        }
+    }
+
+    hr{
+        border-top: 1px solid $white;
+    }
+}
+
+.contrast h1,
+.contrast h2,
+.contrast h3,
+.contrast h4,
+.contrast h5,
+.contrast h6,
+.contrast p,
+.contrast label,
+.contrast strong,
+.contrast em,
+.contrast cite,
+.contrast q,
+.contrast i,
+.contrast b,
+.contrast u,
+.contrast span {
+    color: white !important;
+}
+
+.contrast a{
+    color: yellow !important;
+    &:hover{
+        color: white !important;
+    }
+}
+
+.contrast a.btn{
+    color: yellow !important;
+    background: black !important;
+    border:1px solid yellow !important;
+    &:hover{
+        color: white !important;
+    }
+}
+
+.contrast button,
+.contrast input[type=button],
+.contrast input[type=reset],
+.contrast input[type=submit] {
+    background: black !important;
+    color: yellow !important;
+    border:1px solid yellow !important;
+}
+
+.contrast input[type=text],
+.contrast input[type=password],
+.contrast input[type=url],
+.contrast input[type=search],
+.contrast input[type=email],
+.contrast input[type=tel],
+.contrast input[type=date],
+.contrast input[type=month],
+.contrast input[type=week],
+.contrast input[type=datetime],
+.contrast input[type=datetime-local],
+.contrast textarea,
+.contrast input[type=number] {
+    background: black !important;
+    border: 1px solid white !important;
+    color: white !important;
+}
+
+.contrast {
+    .app-acessibilidade{
+        border-top: 1px solid $white;
+        border-bottom: 1px solid $white;
+        border-left: none !important;
+    }
+    .s-coiq-features{
+        .holderCircle{
+            .round{
+                border: 2px dotted $white !important;
+                z-index: 40;
+                background: none !important;
+            }
+            .dotCircle{
+                .itemDot{
+                    background: $black !important;
+                    color: $white !important;
+                    .active{
+                        background: $white !important;
+                        color: $white !important;
+                    }
+                    i{
+                        background: $black !important;
+                    }
+                }
+            }
+            .contentCircle{
+                background: none !important;
+                .title-box{
+                    .title{
+                        color: $white !important;
+                        z-index: 100;
+                    }
+                }
+                .CircItem{
+                    background: none !important;
+                }
+            }
+        }
+    }
+    #header{
+        border-bottom: 1px solid $white;
+        .sticky{
+            background-color: $black !important;
+            border-bottom: 1px solid $white;
+            .nav-item{
+                .nav-link{
+                    color: yellow !important
+                }
+            }
+        }
+    }
+
+    .our-blog{
+        .process-box{
+            border-top: 1px solid $white;
+            border-right: 1px solid $white;
+            border-bottom: 1px solid $white;
+            .process-step{
+                background: $white !important;
+                h2,p{
+                    color: $black !important;
+                }
+            }
+            .process-step:before{
+                border-bottom: 8px solid $gray-500 !important;
+                border-left: 8px solid $gray-500 !important;
+            }
+            .process-step:after{
+                border-bottom: 8px solid $gray-500 !important;
+                border-right: 8px solid $gray-500 !important;
+            }
+        }
+    }
+
+    .s-map{
+        .leaflet-control-zoom-in{
+            a{
+                span{
+                    color: $black !important;
+                }
+            }
+        }
+        .leaflet-control-zoom-out{
+            a{
+                span{
+                    color: $black !important;
+                }
+            }
+        }
+    }
+
+    #faq{
+        .card{
+            .card-body{
+                color: $white !important;
+            }
+        }
+    }
+
+    #footer{
+        border-top: 12px solid $black !important;
+        .footer-social{
+            i{
+                background: $black !important;
+                border: 1px solid yellow;
+                color: yellow !important;
+            }
+        }
+    }
+
+    .btn-top{
+        margin-top: -40px !important;
+    }
+
+    .modal{
+        background: rgba(0,0,0,.25);
+    }
+}
+
+.contrast {
+    img.on-contrast-force-gray {
+        filter: grayscale(100%) contrast(120%);
+    }
+}
+
+.contrast {
+    img.on-contrast-force-white {
+        filter: brightness(0) invert(1);
+    }
+}
+
+.contrast{
+    a{
+        i{
+            color: yellow !important;
+        }
+    }
+    .app-acessibilidadeItens{
+        span{
+            color: yellow !important;
+            &:hover{
+                color: white !important;
+            }
+        }
+        a{
+            background: black !important;
+            color: yellow !important;
+            &:hover{
+                color: white !important;
+            }
+        }
+    }
+
+    .inputGroup-header{
+        #transcription{
+            i{
+                color: yellow !important;
+            }
+        }
+        #rect{
+            background: $black !important;
+        }
+        .icon-searchPesq{
+            background: none !important;
+        }
+        .form-control{
+            color: $white !important;
+            border: 1px solid $white !important;
+        }
+    }
+
+    .form-control{
+        color: $white !important;
+        border: 1px solid $white !important;
+    }
+    .main-containerArticles{
+        background: $black !important;
+        .main-contentArticle-likes{
+            .button-like, .button-facebook , .button-twitter{
+                background: $black !important;
+                color: yellow !important;
+                @include border-radius(50px);
+                &:hover{
+                    background: yellow !important;
+                    border: 1px solid yellow !important;
+                    color: black !important;
+                    @include border-radius(50px);
+                }
+            }
+        }
+    }
+
+    //correção footer
+    .col-footer{
+        .control-group , .logout-button{
+            a, .login-button, .btn-user, .btn-cadastrar{
+                color: yellow !important;
+                i{
+                    color: yellow !important;
+                }
+            }
+        }
+        .social-icons{
+            i{
+                background: yellow !important;;
+                color: $black !important;
+                &:hover{
+                    background: $black !important;
+                    border: 1px solid yellow !important;
+                    color: yellow !important;
+                }
+            }
+        }
+    }
+}
+
+.contrast .navbar .dropdown-menu{
+    background: black !important;
+    .drop-menuNavtitle{
+        color: white !important;
+    }
+    a{
+        color: yellow !important;
+    }
+    .drop-menuNavCoulumn{
+        .control-group , .logout-button{
+            a, .login-button, .btn-user{
+                color: yellow !important;
+                i{
+                    color: yellow !important;
+                }
+            }
+        }
+    }
+}
+
+.contrast{
+    .spanMenu{
+        color: yellow !important;
+    }
+}
+
+.contrast {
+    img{
+        filter: brightness(1) invert(1) !important;
+    }
+}
+

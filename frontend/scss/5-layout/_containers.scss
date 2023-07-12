@@ -1,0 +1,320 @@
+
+.s-content{
+    padding: 5rem 0;
+}
+
+.banner-prov{
+    height: 720px;
+    overflow: hidden;
+    img{
+        max-width: unset;
+        width: inherit;
+    }
+}
+
+.s-banner{
+    #slider {
+        .carousel-inner{
+            .carousel-item {
+                position: relative;
+                .bannerPosition{
+                    max-width: unset;
+                    width: inherit;
+                }
+                .s-banner__block{
+                    position: absolute;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 100%;
+                    top: 20%;
+                    margin-top: 50px;
+                    left: 0px;
+                    text-align: left;
+                    z-index: 50;
+                }
+
+                .s-banner__block--img{
+                    // width: 300px;
+                }
+
+                .s-banner__block--logo{
+                    // width: 350px;
+                }
+
+                .s-banner__img--title{
+                    font-size: 1.95rem;
+                }
+            }
+
+            ol.carousel-indicators {
+                position: absolute;
+                bottom: 2%;
+                right: 12% !important;
+                left: 10%;
+                z-index: 15;
+                display: inline-flex;
+                padding-left: 0;
+                margin-right: 0;
+                margin-left: 0;
+                list-style: none;
+                li{
+                    width: 12px;
+                    height: 12px;
+                    border-radius: 100%;
+                    border: 2px solid $white;
+                    margin-bottom: 10px;
+                    background-color:rgba($color: $white, $alpha: 0.0);
+                    opacity: 1;
+                }
+                li:active{
+                    background-color:rgba($color: $white, $alpha: 1.0) !important;
+                }
+            }
+        }
+
+    }
+
+}
+
+.s-local{
+    .icon-box{
+        text-align: center;
+        transition: all ease-in-out 0.3s;
+        .icon{
+            img{
+                width: 125px;
+                @include border-radius(50%);
+                cursor: pointer;
+            }
+        }
+        h4{
+            font-size: 1.15rem;
+            color: $white;
+        }
+    }
+
+    .card{
+        small{
+            font-size: small;
+            font-style: italic;
+        }
+    }
+
+    .s-local--list{
+        list-style: none;
+        font-size: .875rem;
+        padding-left: .375rem;
+        border-left: 5px solid $orange;
+        li{
+
+        }
+    }
+}
+
+.s-programs{
+    .row{
+        display: flex;
+        justify-content:space-between;
+        align-items: center;
+        .s-programs--logo{
+            width: 325px;
+        }
+        .s-programs--article{
+            line-height: 1.2;
+            font-weight: 500;
+            font-size: large;
+        }
+    }
+}
+
+.s-mapa{
+    #map{
+       height: 450px; position: relative; outline: none;
+    }
+    ul{
+        list-style: none;
+        li{
+            margin-bottom: 10px;
+        }
+    }
+}
+
+
+@media (min-device-width: 1600px) {
+
+    .s-banner{
+        #slider {
+            height: auto;
+            .carousel-inner{
+                .carousel-item {
+                    .s-banner__block{
+                        margin-top: 30px;
+                        .s-banner__block--logo{
+                            width: 485px;
+                        }
+                    }
+                }
+            }
+            .carousel-indicators {
+                bottom: 1%;
+            }
+        }
+    }
+}
+
+@media (max-device-width: 1366px) {
+
+    .banner-prov{
+        height: 600px;
+    }
+
+    .s-banner{
+        #slider {
+            height: auto;
+            .carousel-inner{
+                .carousel-item {
+                    .s-banner__block{
+                        top: 20%;
+                        margin-top: 30px;
+                        .s-banner__block--logo{
+                            width: 320px;
+                            margin-left: 20px;
+                        }
+                        .s-banner__block--aside{
+                            width: 415px;
+                        }
+                        .s-banner__img--title{
+                            font-size: 1.4rem;
+                            margin-left: 20px;
+                        }
+                    }
+                }
+            }
+            .carousel-indicators {
+                bottom: 1%;
+            }
+        }
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 1200px) {
+    .s-banner{
+        #slider {
+            .carousel-inner{
+                .carousel-item {
+                    .s-banner__block{
+                    }
+                    .s-banner__img--title{
+                        font-size: 1.3rem;
+                    }
+                }
+            }
+            .carousel-indicators {
+                bottom: 1%;
+            }
+        }
+    }
+}
+/* Large devices (desktops, 992px and up) */
+@media (max-width: 992px) {
+    #slider {
+        .s-banner__block{
+            .s-banner__block--aside{
+                display: none;
+            }
+        }
+    }
+}
+
+@media (max-width: 768px) {
+
+    .banner-prov{
+        height: auto;
+        overflow: unset;
+    }
+
+    .s-content{
+        padding: 5rem 0;
+    }
+
+    .s-banner{
+        .carousel-indicators {
+            bottom: 13%;
+        }
+
+    }
+    .s-content .s-content__article{
+        font-size: 1.10rem;
+    }
+
+    .s-banner #slider{
+        height: auto;
+    }
+
+    .s-banner .carousel-item .s-banner__img--title{
+        font-size: 1.10rem;
+    }
+
+    .s-eixos{
+        .s-content__cardEixos{
+            .card--eixos{
+                width: 100%;
+            }
+
+        }
+    }
+
+    .cardEixos{
+        width: 100% !important;
+    }
+
+}
+
+@media (max-width: 540px) {
+
+    .s-banner{
+        #slider{
+            .carousel-inner{
+                .carousel-item{
+                    .s-banner__block{
+                        right: 15.9%;
+                        .s-banner__block--aside{
+                        }
+                    }
+                    .s-banner__block--logo{
+                        // width: 200px;
+                    }
+                    .s-banner__img--title{
+                        font-size: 1.6rem;
+                    }
+                }
+            }
+
+        }
+        .carousel-indicators {
+            bottom: 19%;
+        }
+    }
+
+}
+
+@media (max-width: 420px) {
+
+    .s-banner{
+        .carousel-indicators {
+            bottom: 1%;
+        }
+    }
+
+}
+
+@media (max-width: 380px) {
+
+    .s-banner{
+        .carousel-indicators {
+            bottom: 1%;
+        }
+    }
+
+}

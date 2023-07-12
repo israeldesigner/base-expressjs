@@ -1,0 +1,52 @@
+.langButton{
+    .btnPor{
+        background-color: #2aa043;
+    }
+    .btnEng{
+        background-color: #012169;
+    }
+    .btnEsp{
+        background-color: #aa151b;
+    }
+    button{
+        border: none !important;
+        padding: 0px;
+        margin-right: 5px;
+        @include border-radius(100%);
+        overflow: hidden;
+        img{
+            margin-bottom: 2px;
+            width: 25px;
+        }
+        &:hover{
+            opacity: .75;
+        }
+    }
+}
+
+.langMobile{
+    position: absolute;
+    width: 50%;
+    right: 0;
+    top: 400px;
+    z-index: 5000;
+    display: none;
+    button{
+        margin-bottom: 7px;
+        display: block;
+        float: right;
+        clear: both;
+    }
+    .btnPor{
+        background-color: #2aa043;
+        width: 30px;
+    }
+    .btnEng{
+        background-color: #012169;
+        width: 30px;
+    }
+    .btnEsp{
+        background-color: #aa151b;
+        width: 30px;
+    }
+}
