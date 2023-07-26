@@ -1,10 +1,10 @@
-
-import { acessibility } from './acessibility';
-import { fontSize } from './fontSize';
-import { mobile } from './mobile';
-import { analytcs } from './analytcs';
-import { form } from './form';
-import { leaflet } from './leaflet';
+import { acessibility } from './acessibility'
+import { fontSize } from './fontSize'
+import { mobile } from './mobile'
+import { analytcs } from './analytcs'
+import { form } from './form'
+import { leaflet } from './leaflet'
+import { script } from './script'
 
 /**
  * Run event after DOM is ready
@@ -20,14 +20,14 @@ function ready(fn) {
 }
 
 ready(function () {
-
   fontSize()
   acessibility()
   leaflet()
   form()
-  
+
   let mw = window.matchMedia('(max-width: 768px)')
   mobile(mw)
   mw.addListener(mobile)
   analytcs()
+  script()
 })

@@ -22,6 +22,6 @@ COPY uploads /src/app/uploads
 
 COPY dist /src/app/dist
 
-EXPOSE 3000
+EXPOSE 5000
 
 CMD ["pm2-runtime","start", "pm2.json"]

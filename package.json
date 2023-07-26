@@ -5,10 +5,10 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js --ignore public --ignore frontend",
+    "start": "pm2 start server.js --name nodepm --watch -i 1",
     "dev": "nodemon server.js --ignore public --ignore frontend",
     "build": "cross-env NODE_ENV=production webpack -w --config config/webpack.prod.js",
-    "production": "yarn start server.js --name fpa --watch -i 1"
+    "production": "pm2 start server.js --name nodepm --watch -i 1"
   },
   "keywords": [],
   "engines": {
@@ -33,12 +33,12 @@
     "helmet": "^6.0.1",
     "jest": "^27.5.1",
     "mongoose": "^7.0.1",
-    "pm2": "^5.3.0",
-    "redis": "^4.6.5",
-    "validator": "^13.9.0",
     "multer": "^1.4.2",
     "multiparty": "^4.2.3",
-    "nodemailer": "^6.7.6"
+    "nodemailer": "^6.7.6",
+    "pm2": "^5.3.0",
+    "redis": "^4.6.5",
+    "validator": "^13.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
@@ -47,9 +47,9 @@
     "@floating-ui/dom": "0.5.1",
     "@fortawesome/fontawesome-free": "^6.1.1",
     "@popperjs/core": "^2.11.6",
+    "aos": "^2.3.4",
     "autoprefixer": "^10.4.13",
     "babel-loader": "^8.2.2",
-    "aos": "^2.3.4",
     "bootstrap": "^4.6.0",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^9.0.1",
@@ -61,14 +61,14 @@
     "eslint-import-resolver-webpack": "^0.13.1",
     "eslint-plugin-prettier": "^4.0.0",
     "html-webpack-plugin": "^5.3.2",
-    "jquery": "^3.6.3",
     "i18next": "^21.9.1",
     "i18next-browser-languagedetector": "^6.1.5",
+    "jquery": "^3.6.3",
     "jquery-i18next": "^1.2.1",
-    "leaflet": "^1.9.3",
-    "popper": "^1.0.1",
     "mini-css-extract-plugin": "^2.4.2",
     "nodemon": "^2.0.21",
+    "popper": "^1.0.1",
+    "leaflet": "^1.9.3",
     "prettier": "^2.4.1",
     "sass": "^1.43.5",
     "sass-loader": "^12.2.0",

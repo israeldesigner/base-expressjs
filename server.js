@@ -2,7 +2,7 @@
 require('dotenv').config()
 const express = require('express')
 const app = express()
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 5000
 const mongoose = require('mongoose')
 mongoose
   .connect(process.env.CONNECTIONSTRING, {
@@ -91,7 +91,7 @@ app.use(routes)
 
 app.on('pronto', () => {
   app.listen(`${PORT}`, () => {
-    console.log('acessar http://localhost:3000')
+    console.log(`acessar ${PORT}`)
     console.log('servidor está executando')
   })
 })
