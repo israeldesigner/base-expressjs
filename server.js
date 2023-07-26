@@ -26,6 +26,7 @@ const multer = require('multer')
 const csrf = require('csurf')
 const {
   middleWareGlobal,
+  verifyNonce,
   checkCsrfError,
   csrfMiddleware,
 } = require('./src/middlewares/middleware.js')
@@ -85,6 +86,9 @@ app.set('view engine', 'ejs')
 
 app.use(csrf())
 app.use(middleWareGlobal)
+app.use(verifyNonce)
+// app.use(redirectErrorMiddleware)
+// app.use(redirectErrorGlobal)
 app.use(checkCsrfError)
 app.use(csrfMiddleware)
 app.use(routes)
